@@ -27,7 +27,3 @@ El código fuente se encuentra organizado dentro del paquete principal `pkgAnaPa
 1. Clona este repositorio en tu computadora:
    ```bash
    git clone [https://github.com/anapaulacalahorrano17-boop/Reino-Animal.git](https://github.com/anapaulacalahorrano17-boop/Reino-Animal.git)
-
-1. Clona este repositorio en tu computadora:
-   ```bash
-   git clone [https://github.com/anapaulacalahorrano17-boop/Reino-Animal.git](https://github.com/anapaulacalahorrano17-boop/Reino-Animal.git)
