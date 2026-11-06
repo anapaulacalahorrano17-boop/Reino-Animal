@@ -1,18 +1,33 @@
-## Getting Started
+# 🐾 Deber Individual: Reino Animal (POO)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene la resolución del deber individual enfocado en la aplicación de los principios de la **Programación Orientada a Objetos (POO)** en Java, modelando una jerarquía de clases para el reino animal.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📂 Estructura del Proyecto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+El código fuente se encuentra organizado dentro del paquete principal `pkgAnaPaula`:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* **`ReinoAnimal.java`** *(Clase principal)*: Contiene el método `main` y el menú interactivo para la ejecución del programa.
+* **`fauna.java` / `flora.java`**: Clases base o abstractas que definen los atributos y comportamientos generales.
+* **`vertebrados.java` / `invertebrados.java`**: Clases intermedias que extienden la jerarquía
+* **`helechos.java` / `musgos.java` / `fauna.java`** *(y demás clases hijas)*: Clases especializadas que heredan y sobrescriben métodos según corresponda
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🛠️ Conceptos Aplicados
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* **Herencia y Polimorfismo**: Uso de superclases y subclases para organizar atributos comunes.
+* **Encuestamiento / Métodos**: Implementación de constructores, métodos de acceso y lógica de presentación en consola.
+* **Control de Versiones**: Gestión mediante Git y GitHub.
+
+---
+
+## 🚀 Instrucciones de Ejecución
+1. Clona este repositorio en tu computadora:
+   ```bash
+   git clone [https://github.com/anapaulacalahorrano17-boop/Reino-Animal.git](https://github.com/anapaulacalahorrano17-boop/Reino-Animal.git)
+
+1. Clona este repositorio en tu computadora:
+   ```bash
+   git clone [https://github.com/anapaulacalahorrano17-boop/Reino-Animal.git](https://github.com/anapaulacalahorrano17-boop/Reino-Animal.git)
